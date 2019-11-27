@@ -1,0 +1,16 @@
+Date and time: 2019-01-25 14:07:10.446377
+Description of phase transition object:
+<pyCSalgos.phase_transition.SynthesisPhaseTransition object at 0x7f4ece37f5c0>
+Class type: SynthesisPhaseTransition
+-------------------
+Signal dimension = 100
+Dictionary size = 120
+Number of signals for each data point = 2
+Delta = [0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9]
+Rho   = [0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9]
+SNR = inf dB
+Solvers = [LSIHT (1,10000), IterativeHardThresholding(debias=True, deltatol=1e-12, maxiter=70000,
+             sparsity='real', stoptol=1e-07)]
+Solvers with Exact Recovery Condition (ERC) = [LSIHT (1,10000)]
+Error matrix = shape (2, 9, 9, 2)
+ERC success matrix = None

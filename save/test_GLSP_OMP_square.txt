@@ -1,0 +1,15 @@
+Date and time: 2017-04-23 17:09:02.005520
+Description of phase transition object:
+<pyCSalgos.phase_transition.SynthesisPhaseTransition object at 0x7f34d458b1d0>
+Class type: SynthesisPhaseTransition
+-------------------
+Signal dimension = 200
+Dictionary size = 200
+Number of signals for each data point = 100
+Delta = [ 0.1   0.15  0.2  ...,  0.85  0.9   0.95]
+Rho   = [ 0.1   0.15  0.2  ...,  0.85  0.9   0.95]
+SNR = inf dB
+Solvers = [GreedyLeastSquares(stopval=1e-06), OrthogonalMatchingPursuit(algorithm='sparsify_QR', stopval=1e-06)]
+Solvers with Exact Recovery Condition (ERC) = [GreedyLeastSquares(stopval=1e-06), OrthogonalMatchingPursuit(algorithm='sparsify_QR', stopval=1e-06)]
+Error matrix = shape (2, 18, 18, 100)
+ERC success matrix = None
